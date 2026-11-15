@@ -10,7 +10,7 @@ export const site = {
   tagline: 'Ludhiana, Punjab',
   description:
     'An established chemical business in Ludhiana, Punjab, since the 1990s — serving metal hardening, heat treatment, automotive component and textile dyeing applications.',
-  url: 'https://industrial-chemical-website.vercel.app',
+  url: 'https://gpcindia.vercel.app',
 
   contact: {
     email: 'marwaha1968@gmail.com',
